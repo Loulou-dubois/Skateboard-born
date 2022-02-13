@@ -1,0 +1,31 @@
+
+@import url("components/card.css");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+
+
+
+
+
+
+
+
+Body {
+	color: rgb(30, 30, 30);
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 18px;
+	font-weight: lighter;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
